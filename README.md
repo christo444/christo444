@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christo444
 - 👀 I’m an AI enthusiast
 - 🌱 I’m a python and flutter developer
-- 💞️ I’m looking to collaborate on projects
+- 🤝 I’m looking to collaborate on projects
 
 <!---
 stormslash444/stormslash444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
